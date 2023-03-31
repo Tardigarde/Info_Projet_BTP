@@ -1,15 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
-package com.insa_BITAT_Ilian.projet_devis_btp;
-
-/**
- *
- * @author ibitat01
- */
-
-    import java.io.*;
+import java.io.*;
 
 /**
 version améliorée par Raphaël Schruoffeneger ; MIQ2 INSA Strasbourg 2013 
@@ -595,5 +584,3 @@ public class Lire
         return resultat;
     } // fin de String separer(int nombre)
 }
-    
-
